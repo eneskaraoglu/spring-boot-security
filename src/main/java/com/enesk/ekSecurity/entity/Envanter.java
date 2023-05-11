@@ -19,6 +19,7 @@ import lombok.Setter;
 public class Envanter  {
 	
 	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int envanterId;
 	private String envanterAdi;
 	private String envanterKodu;

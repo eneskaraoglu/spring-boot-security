@@ -9,4 +9,8 @@
 	<li>Lombok</li>
 	<li>spring-boot-starter-security</li>
 	
+db table for use
+users
+authorities
+
 	
